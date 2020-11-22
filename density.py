@@ -34,7 +34,7 @@ t.head.left.right=Node(5)
 t.head.right.left=Node(6)
 t.head.right.right=Node(7)
 s=t.size(t.head)
-h=t.height(t.head)s
+h=t.height(t.head)
 print(s/h)
 
     #          1
